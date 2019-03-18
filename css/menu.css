@@ -1,0 +1,48 @@
+body{
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+  background-color: rgb(139,69,19);
+  color: rgb(255,255,255);
+}
+
+div{
+  margin: 20;
+  padding: 30;
+}
+
+img{
+  max-width: 70%;
+}
+
+.heading {
+    font-size: 24px;
+    color: rgb(255, 255, 255);
+    margin: -40px -10px 0px -10px;
+}
+
+h1{
+  margin-top: 7cm;
+  font-size: 100px;
+}
+.h2menu{
+  margin-left: 4cm;
+  margin-right: 4cm;
+}
+
+.dessert{
+  max-height: 150px;
+}
+
+.soup{
+  max-height: 150px;
+}
+
+.wine{
+  max-height: 150px;
+}
+
+.combo{
+  max-height: 150px;
+  max-width: 300px;
+}
