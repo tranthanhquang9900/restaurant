@@ -170,26 +170,3 @@ a:hover{color: black}
   color: #99ffdf;
 }
 #twit:hover {color: #99ff99;}
-.responsive{
-  font-size: 12px;
-}
-@media screen and (min-width: 576px){
-  .responsive {
-    font-size: 19px;
-  }
-}
-@media screen and (min-width: 768px){
-  .responsive {
-    font-size: 30px;
-  }
-}
-@media screen and (min-width: 992px){
-  .responsive {
-    font-size: 45px;
-  }
-}
-@media screen and (min-width: 1200px){
-  .responsive {
-    font-size: 60px;
-  }
-}
