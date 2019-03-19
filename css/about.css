@@ -90,42 +90,7 @@ h5{
   font-size: 25px;
   padding-bottom: 20px;
 }
-span.a{
-  font-size: 20px;
-  display: inline-block;
-  width: 260px;
-  height: 40px;
-}
-span.mot{
-  text-align: left;
-  font-size: 15px;
-  display: inline-block;
-  width: 260px;
-  height: 50px;
-  padding-right: 10px;
 
-}
-span.hai{
-  text-align: left;
-  font-size: 15px;
-  display: inline-block;
-  width: 260px;
-  height: 50px;
-  padding-left: 3px;
-  margin-top: 30px;
-}
-
-.haimot{
-  margin-top: 10px;
-  margin-bottom: 100px;
-}
-span.ba{
-  text-align: left;
-  font-size: 15px;
-  display: inline-block;
-  width: 260px;
-  height: 50px;
-}
 th{
   background: ;
   color: #996633;
@@ -144,6 +109,7 @@ table{
   padding-right: 30px;
 }
 table, th {
+  margin-right: 100px;
   margin-top: 2px;
   font-size: 20px;
   margin-left: 650px;

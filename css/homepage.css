@@ -1,0 +1,362 @@
+
+
+body{
+
+}
+.heading {
+  background-image: url("../images/dusk.jpg");
+  background-image: cover;
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: cover;
+  	text-shadow: 2px 1px 1px #4d4d4d;
+    margin: -20px -10px 0px -10px;
+  	min-height: 800px;
+  }
+
+.logo {
+  padding: 10px;
+  text-align: left;
+  font-size: 40px;
+  color: #ffffff;
+  margin: 20px 20px 20px 20px;
+  font-style:
+}
+
+.name {
+  text-align: center;
+  padding-top: 200px;
+  font-size: 150px  ;
+  color: #ffffff;
+  font-style:
+}
+
+.slogan {
+  text-align: center;
+  font-size: 25px  ;
+  color: #ffffff;
+}
+
+video {
+
+  width: 30%;
+  height: 30%;
+  margin-top: 3cm;
+  margin-left: 1cm;
+  margin-right: auto;
+   display: inline;
+
+}
+
+.destination{
+  font-size: 20px;
+  color:#505050;
+  min-height: 1px;
+}
+
+.destination-heading {
+  text-align: center;
+  font-size: 40px;
+}
+
+.destination-paragraph {
+  font-size: 20px;
+}
+
+.dinnerShow{
+  background-image: url("../images/cafehome.jpg");
+
+  background-image: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    text-shadow: 2px 1px 1px #4d4d4d;
+    margin: -20px -10px 0px -10px;
+    min-height: 800px;
+}
+
+.dinnerShow-heading {
+  text-align: center;
+
+  padding-top: 250px;
+  font-size: 80px  ;
+  color: #ffffff;
+}
+
+.dinnerShow-paragraph  {
+  text-align: center;
+  font-size: 25px ;
+  color: #ffffff;
+}
+
+.contact {
+  min-height: 500px;
+}
+
+.contact-heading {
+  text-align: center;
+  color:#505050;
+  padding-top: 20px;
+}
+
+.contact-paragraph{
+  text-align: center;
+  font-size: 20px;
+  color:#505050;
+  padding-bottom: 40px;
+}
+.contact-numbers {
+  text-align: center;
+  font-size:60px;
+  color:#505050;
+  margin: auto;
+}
+
+.contact-reservation {
+  text-align: center;
+  font-size: 22px;
+  color:#505050;
+}
+
+.contact-askFillForm {
+  text-align: center;
+  font-size: 20px;
+  color:#505050;
+}
+
+.reservation-fill-form {
+  text-align: center;
+  font-size: 25px;
+  color:#505050;
+}
+
+.reservation-fill-form-wrapped-name {
+  padding:20px;
+}
+
+.reservation-fill-form-first-name{
+width: 200px;
+height: 30px;
+color:#505050;
+font-size:20px;
+}
+
+.reservation-fill-form-last-name {
+  width: 200px;
+  height: 30px;
+  color:#505050;
+  font-size:20px;
+}
+
+.reservation-fill-form-wrapped-email {
+  padding:20px;
+}
+
+.reservation-fill-form-email {
+  width: 600px;
+  height: 30px;
+  color:#505050;
+  font-size:20px;
+}
+
+.reservation-fill-form-wrapped-phone {
+  padding-top:20px;
+}
+
+.reservation-fill-form-phone{
+  width: 200px;
+  height: 30px;
+  color:#505050;
+  font-size:20px;
+}
+
+.reservation-fill-form-wrapped-detail {
+  padding-bottom: 50px;
+}
+
+.reservation-fill-form-detail {
+  width: 700px;
+  height: 150px;
+  color:#505050;
+  font-size:20px;
+
+}
+
+.reservation-fill-form-wrapped-button {
+  text-align: center;
+  padding-bottom: 50px
+}
+
+.reservation-fill-form-button {
+  border-radius: 4px;
+  background-color: #555555;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 5px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: auto;
+}
+
+.reservation-fill-form-button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.reservation-fill-form-button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.reservation-fill-form-button:hover span {
+  padding-right: 25px;
+}
+
+.reservation-fill-form-button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+
+.island-food {
+background-image: url("../images/beef.jpg");
+  background-image: cover;
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: cover;
+    background-position: center;
+  	text-shadow: 2px 1px 1px #4d4d4d;
+    margin: -20px -10px 0px -10px;
+  	min-height: 800px;
+}
+
+.island-food-heading {
+  text-align: center;
+  color:#ffffff;
+  font-size: 100px;
+  padding-top: 270px;
+}
+
+.island-food-paragraph {
+  text-align: center;
+  font-size: 25px;
+  color:#ffffff;
+}
+
+.hawai-menu {
+  text-align: center;
+  font-size: 25px;
+  color:#505050;
+}
+
+.hawai-menu-heading {
+  text-align: center;
+  font-size: 30px;
+  color:#505050;
+  padding-top: 50px;
+}
+
+.hawai-menu-paragraph {
+  text-align: center;
+  font-size: 20px;
+  color:#505050;
+}
+
+.hawai-menu-button {
+  border-radius: 4px;
+  background-color: #555555;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 17px;
+  padding: 10px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.hawai-menu-button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.hawai-menu-button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -5px;
+  transition: 0.5s;
+}
+
+.hawai-menu-button:hover span {
+  padding-right: 25px;
+}
+
+.hawai-menu-button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+@media only screen and (max-width:800px) {
+  /* For tablets: */
+  .main {
+    width: 80%;
+    padding: 0;
+  }
+  .right {
+    width: 100%;
+  }
+}
+@media only screen and (max-width:500px) {
+  /* For mobile phones: */
+  .menu, .main, .right {
+    width: 100%;
+  }
+}
+
+th{
+  background: ;
+  color: #996633;
+  padding-left: 5px;
+  padding-right: 40px;
+  text-align:center;
+  transition-property: background;
+  transition-duration: 1s;
+  transition-timing-function: linear;
+}
+th{
+  background: ;
+  padding-right: 20px;
+}
+table{
+  padding-right: 30px;
+}
+table, th {
+  margin-top: 2px;
+  padding-top: 10px;
+  font-size: 20px;
+  margin-left: 650px;
+  border-left: 4px solid white;
+  border-collapse: collapse;
+}
+th:hover {background-color:#f5f5f5;}
+a{
+  color: #996633;
+  transition-property: background;
+  transition-duration: 1s;
+  transition-timing-function: linear;
+}
+a:hover{color: black}
